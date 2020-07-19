@@ -15,9 +15,14 @@ exports.loginUser = (req, res) => {
         res.status(200).json({
             status: true,
             message: msg.success.authenticated,
-            token,
-            expiresIn: environment.jwt.lifetime,
-            userId: user.id
+            authData: {
+                token,
+                expiresIn: environment.jwt.lifetime,
+                firstName: user.firstName,
+                lastName: user.lastName,
+                email: user.email,
+                userId: user.id
+            }
         });
     } catch (error) {
         res.status(401).json({ status: false, message: error.message });
