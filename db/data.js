@@ -68,15 +68,15 @@ const mockData = {
     },
     {
       "id": 12,
-      "firstName": "Stephen",
-      "lastName": "Hawking",
-      "email": "shawking827@gmail.com"
+      "firstName": "Oyster",
+      "lastName": "io",
+      "email": "oyster@gmail.com"
     },
     {
       "id": 13,
-      "firstName": "Joanne",
-      "lastName": "Rowling",
-      "email": "rowling52@gmail.com"
+      "firstName": "Carlos",
+      "lastName": "Flores Nava",
+      "email": "carlos.flores.nava94@gmail.com"
     }
   ],
   "publications": [

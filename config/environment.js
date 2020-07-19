@@ -4,7 +4,7 @@ const environment = {
         lifetime: 3600
     },
     cors: {
-        frontendDevUrl: 'http://localhost:3001'
+        frontendDevUrl: 'http://localhost:3000'
     }
 };
 
