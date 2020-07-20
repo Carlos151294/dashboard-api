@@ -6,7 +6,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode on http://localhost:3001.<br />
 
-### `npm run test`
+### `npm test`
 
 Launches the test runner in the interactive watch mode.<br />
 Press option 'a' to run all tests.
