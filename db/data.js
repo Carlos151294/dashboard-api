@@ -110,13 +110,6 @@ const mockData = {
     },
     {
       "id": 5,
-      "title": "Sonata Pathétique",
-      "description": "Piano Sonata No. 8 in C minor, Op. 13, commonly known as Sonata Pathétique, was written in 1798 when the composer was 27 years old, and was published in 1799.",
-      "date": "02-05-1799",
-      "idUser": 4
-    },
-    {
-      "id": 5,
       "title": "It",
       "description": "The story follows the experiences of seven children as they are terrorized by an evil entity that exploits the fears and phobias of its victims to disguise itself while hunting its prey. 'It' primarily appears in the form of Pennywise the Dancing Clown to attract its preferred prey of young children.",
       "date": "15-09-1986",
