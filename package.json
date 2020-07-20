@@ -4,7 +4,7 @@
   "description": "RESTful API which serves dashboard project",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watch --runInBand"
   },
   "author": "Carlos Flores",
   "license": "ISC",
